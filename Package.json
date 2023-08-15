@@ -1,0 +1,13 @@
+{
+  "name": "com.Demo.SceneManager",
+  "version": "1.0.0",
+  "displayName": "SceneManager Demo",
+  "description": "This is an SceneManager Demo",
+  "unity": "2023.3",
+
+  "author": {
+    "name": "me",
+    "email": "me@example.com",
+    "url": ""
+  }
+}
